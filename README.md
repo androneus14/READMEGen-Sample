@@ -1,26 +1,28 @@
 # README Generator
 
-  ## Table of Contents
-  - [Description](#description)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+## Table of Contents
 
-  ## Description
-  To create a professional README file
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  ## User Story
+## Description
+
+To create a professional README file
+
+## User Story
 
     AS A developer
     I WANT a README generator
     SO THAT I can quickly create a professional README for a new project
 
-  ## Acceptance Criteria
+## Acceptance Criteria
 
     GIVEN a command-line application that accepts user input
     WHEN I am prompted for information about my application repository
@@ -38,19 +40,31 @@
     WHEN I click on the links in the Table of Contents
     THEN I am taken to the corresponding section of the README
 
+## Installation
 
-  ## Installation
-  npm install and node index.js through the terminal
-  ## Usage
-  To quickly create a professional and well-formatted README file
-  ## License
-  # License: MIT
-  # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # 
-  ## Contributing
-  Andy Nguyen
-  ## Tests
-  npm install and node index.js
-  ## Questions
-  Username: androneus14<br />
-  Email Address: andynguyen_3@hotmail.com
+npm install and node index.js through the terminal
+
+## Usage
+
+To quickly create a professional and well-formatted README file
+
+## License
+
+# License: MIT
+
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+#
+
+## Contributing
+
+Andy Nguyen
+
+## Tests
+
+npm install and node index.js
+
+## Questions
+
+Username: androneus14<br />
+Email Address: andynguyen_3@hotmail.com
